@@ -1,0 +1,9 @@
+
+:root {
+    --colorContrastColor: #27153e;    
+    --colorPrimary: #f5007e;    
+    --colorLightGray: #faf8f9;    
+    --colorBlack: #000000;    
+    /* i.e. for $contrast-primary text */
+    --colorWhiteWhite100_: #ffffff;    
+}
